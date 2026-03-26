@@ -1,0 +1,23 @@
+.welcome-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+
+  h1 {
+    color: #2c3e50;
+    font-size: 2.5rem;
+  }
+  h2 {
+    color: #555;
+    font-size: 1.9rem;
+  }
+  p {
+    color: #7f8c8d;
+    font-size: 1.2rem;
+  }
+  .descripcio-extra {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+  }
+}
